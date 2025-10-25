@@ -6,3 +6,5 @@ Languages used: Java, C
 
 ## Topics
 - Arrays
+- Strings
+- Linked List
